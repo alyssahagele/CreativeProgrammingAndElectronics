@@ -9,4 +9,4 @@
   general so I just had to review a lot of the basics but rewatching the zoom 
   recordings and the Processing Reference page really helped.
   
-  ![](Screen Shot 2020-07-12 at 9.28.30 PM.jpg)
+  ![](img.jpg)
