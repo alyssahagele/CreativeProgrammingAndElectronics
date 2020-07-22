@@ -9,7 +9,7 @@ Difficulties:
   where everything was suppose to go
   .I tried to do analogRead and digitalRead but I couldnt get it to work
   
-  ![](IMG_5191.jpg)
-  ![](IMG_8597.jpg)
-  ![](IMG_8727.jpg)
+  ![](IMG_5191.jpg);
+  ![](IMG_8597.jpg);
+  ![](IMG_8727.jpg);
 
