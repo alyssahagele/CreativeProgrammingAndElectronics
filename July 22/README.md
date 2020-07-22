@@ -9,6 +9,11 @@ Difficulties:
   where everything was suppose to go
   .I tried to do analogRead and digitalRead but I couldnt get it to work
   
-  
+   ![](1.jpg)
+   
+   ![](2.jpg)
+   
+   ![](schematic.jpg)
+    
 
 
