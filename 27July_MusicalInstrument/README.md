@@ -1,8 +1,8 @@
-![](IMG_2084.jpg)
+![](IMG_2084.JPG)
 
-![](IMG_3808.jpg)
+![](IMG_3808.JPG)
 
-![](IMG_4240.jpg)
+![](IMG_4240.JPG)
 
 Sources:
 https://www.arduino.cc/en/Tutorial/ToneMelody
