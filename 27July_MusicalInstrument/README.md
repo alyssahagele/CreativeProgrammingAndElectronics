@@ -1,3 +1,9 @@
+![]("IMG_2084.JPG");
+
+![]("IMG_3808.JPG");
+
+![]("IMG_4240.JPG");
+
 Sources:
 https://www.arduino.cc/en/Tutorial/ToneMelody
 https://create.arduino.cc/projecthub/jsheng/happy-birthday-lights-and-sounds-1745cd
