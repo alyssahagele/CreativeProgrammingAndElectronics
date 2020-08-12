@@ -10,10 +10,10 @@ Golan Levin "Footfalls" + mix of other pieces
 ![](footfalls.jpg)
 
 My Project:
-![](p1.jpg)
+![](p1.JPG)
 
-![](p2.jpg)
+![](p2.JPG)
 
-![](p3.jpg)
+![](p3.JPG)
 
-![](p4.jpg)
+![](p4.JPG)
