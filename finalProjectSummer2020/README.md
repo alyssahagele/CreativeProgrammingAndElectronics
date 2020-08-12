@@ -10,7 +10,9 @@ For some reason my arduino wasn't showing up under ports so I wasn't able to upl
 it worked. Then when I uploaded my program, the lights and the ultrasonic sensor module wasn't working either so I adjusted the wiring under the senor module which worked; then I realized that the LED lights had no power which is why those weren't working so I fixed that and everything was working fine. The code was difficult beause I wasn't that experienced with buzzer and the ultrasonic senor module but after researching I figured it out.
 
 Inspiration:
-Golan Levin "Footfalls" + mix of other pieces
+
+Golan Levin "Footfalls" + mix of other pieces:
+
 ![](footfalls.jpg)
 
 My Project:
