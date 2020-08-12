@@ -19,8 +19,7 @@ My Project:
 ![](p4.JPG)
 
 Youtube Video for My Project:
-
-http://img.youtube.com/vi/https://youtu.be/Dg7oYhXyoNs/0.jpg
+https://www.youtube.com/watch?v=Dg7oYhXyoNs
 
 
 Sources:
